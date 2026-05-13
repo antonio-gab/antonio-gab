@@ -8,6 +8,8 @@
 - C++
 - Python
 - MySQL
+- Css
+- HTML
 
 ## 📫 Contato
 - LinkedIn: www.linkedin.com/in/AntonioGabrielvp
